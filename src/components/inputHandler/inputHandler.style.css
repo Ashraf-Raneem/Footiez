@@ -1,0 +1,26 @@
+.mainDiv {
+    background-color: white;
+    text-align: center;
+}
+
+.cover {
+    height: 100%;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0px 25px 25px 25px;
+    background-color: #242624;
+    border-radius: 20px;
+    color: #AAC62F;
+    box-shadow: 2px solid black;
+}
+.cover .questionText {
+    font-size: 22px;
+    padding: 10px;
+    font-weight: bold;
+    text-align: start;
+}
+.cover .checkBoxText {
+    font-size: 20px;
+    font-weight: bold;
+
+}

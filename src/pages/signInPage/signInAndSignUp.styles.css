@@ -1,0 +1,10 @@
+.signUpGrid {
+    margin: 20px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 700px 500px; 
+    text-align: center;
+}
+.component1 {
+    padding: 0px 100px;
+}

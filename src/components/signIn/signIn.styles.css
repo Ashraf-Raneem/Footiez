@@ -1,0 +1,12 @@
+.signInDiv {
+    text-align: center;
+    padding: 10px;
+}
+.formGroup2 {
+    text-align: center;
+    padding-right: 30px;
+}
+.signInDiv h3{
+    color: teal;
+    font-weight: bold;
+}

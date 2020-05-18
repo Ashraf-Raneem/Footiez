@@ -1,0 +1,16 @@
+.headerDiv {
+    height: 60px;
+    width: 100%;
+    padding: 10px;
+    color: teal ;
+    background: #242624 ;
+    text-align: center;
+}
+.headerDiv h2 {
+    display: inline;
+}
+.headerDiv .navLink {
+    float: right;
+    text-decoration: none;
+    padding-right: 5px;
+}

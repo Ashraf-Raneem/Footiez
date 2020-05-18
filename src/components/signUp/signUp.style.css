@@ -1,0 +1,25 @@
+
+.signUpDiv {
+    text-align: center;
+    margin: 0 auto;
+}
+.signUpDiv h3{
+    color: teal;
+    font-weight: bold;
+}
+.signUp-Btn {
+    width: 25px;
+}
+.signUpDiv {
+    padding: 10px;
+}
+.formGroup {
+    height: 500px;
+    width: 500px;
+    text-align: center;
+}
+.header {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}

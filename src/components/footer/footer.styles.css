@@ -1,0 +1,15 @@
+.footerDiv {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    width: 100%;
+    background: #242624 ;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.footerDiv em {
+    color: teal;
+}

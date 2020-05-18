@@ -1,0 +1,10 @@
+.timerDiv {
+    padding: 20px;
+}
+.timer {
+    font-size: 30px;
+    
+}
+.timer em {
+    color: red;
+}
