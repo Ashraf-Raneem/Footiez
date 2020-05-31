@@ -96,7 +96,6 @@ render () {
             <h3>Round : 1 </h3>
             <h3> Timer {count}</h3>
             <div className='cover'>
-            
             { collections.map(({id,question,answers,...otherProps})=> 
             <FormGroup   key={id} check>
             <Label key={id}{...otherProps} className='questionText' check>{question}</Label>

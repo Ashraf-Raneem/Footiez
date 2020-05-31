@@ -11,10 +11,8 @@ The technologies used to create this application is ReactJs and CSS for the fron
  Here are some of the screenshots of the pages: 
 
  ## Sign up and Login Page 
-![picture alt](./public/CoverPage_SC.png)
+![picture alt](./public/SignIn_SC.png)
 
  ## The Information Page 
-![picture alt](./public/CoverPage_SC.png)
+![picture alt](./public/homepage.png)
 
-## The Quiz Page 
-![picture alt](./public/CoverPage_SC.png)

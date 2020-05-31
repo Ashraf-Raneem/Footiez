@@ -44,7 +44,6 @@ var Data = [
             {option: 2, ans : 'Liverpool'}
         ],
         correctAns : 'Real Madrid'
-    },  
-
+    }
 ]
 export default Data
